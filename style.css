@@ -1,0 +1,18 @@
+
+.heading {
+    width: 100%;
+    text-align: left;
+    line-height: 40px;
+
+}
+
+.heading h3{
+    display:inline;
+
+}
+
+.heading button {
+    float:right;
+    border:1px solid white;
+
+}
